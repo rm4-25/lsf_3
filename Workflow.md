@@ -88,12 +88,15 @@ order: 3
         <li>Everyone</li>
       </ul>
     </td>
-    <td>Complete</td>
-    <td>In progress</td>
-    <td>Complete</td>
-    <td>In Progress</td>
-    <td>In Progress</td>
-    <td>Complete</td>
+    <td>
+      <ul>
+        <li>Complete</li>
+        <li>In Progress</li>
+        <li>Complete</li>
+        <li>In Progress</li>
+        <li>Complete</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>4-Mar </td>
