@@ -4,7 +4,6 @@ title: Workflow
 author: LSF Team
 ---
 
-### Team Workflow Table 
 <table border="1">
   <tr>
     <th>Week</th>
