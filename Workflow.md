@@ -58,9 +58,9 @@ order: 3
       <ul>
         <li>Complete</li>
         <li>Complete</li>
-        <li>In progress</li>
         <li>Complete</li>
-        <li>In progress</li>
+        <li>Complete</li>
+        <li>Complete</li>
         <li>In progress</li>
       </ul>
     </td>
@@ -88,7 +88,12 @@ order: 3
         <li>Everyone</li>
       </ul>
     </td>
+    <td>Complete</td>
     <td>In progress</td>
+    <td>Complete</td>
+    <td>In Progress</td>
+    <td>In Progress</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>4-Mar </td>
@@ -106,7 +111,7 @@ order: 3
         <li>Everyone</li>
       </ul>
     </td>
-    <td>Not started</td>
+    <td>In Progress</td>
   </tr>
   <tr>
     <td>11-Mar (Spring Break)</td>
@@ -145,7 +150,7 @@ order: 3
     <td>
       <ul>
         <li>Group Report 3</li>
-        <li>Design the the Github landing page</li>
+        <li>Design the Github landing page</li>
       </ul>
     </td>
     <td>
