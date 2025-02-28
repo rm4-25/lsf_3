@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Workflow
-author: LSF Team
 ---
 
 <table border="1">
