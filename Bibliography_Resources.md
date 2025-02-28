@@ -3,8 +3,6 @@ layout: page
 title: Bibliography & Resources
 ---
 
-### Bibliography and Resources
-
 Cronon, William. "The Trouble with Wilderness or, getting back to the Wrong Nature." William Cronon, 1992 [https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html](https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)
 
 Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 [https://www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park](https://www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park)
