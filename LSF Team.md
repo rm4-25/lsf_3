@@ -3,8 +3,6 @@ layout: page
 title: LSF Team
 ---
 
-<img src="assets/elizabeth_cornick_headshot.jpg" alt="elizabeth's photo" style="width:25%; height:auto;">
-
 **Elizabeth Cornick (she/her) - Coconut Grove Soundcatcher**
 
 Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
@@ -22,6 +20,8 @@ Prishanti [(email)](mailto:pxp691@miami.edu) is a PhD student in the English and
 **Kathy Rubio (she/her) - Hollywood Soundcatcher**
 
 Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of Modern Languages and Literatures at University of Miami, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. Kathy is the founder of a small travel and language learning company, and she is currently collaborating on a book project on tourism in the Caribbean.
+
+< to add img see <img src="assets/file name here" alt="alternate text" style="width:25%; height:auto;"> >
 
 ---
 
