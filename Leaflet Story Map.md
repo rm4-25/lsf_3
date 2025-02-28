@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leaflet Story Map
-order: 2
+order: 1
 ---
 
 <iframe>
