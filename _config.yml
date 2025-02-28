@@ -9,9 +9,10 @@ baseurl:             '/lsf_3'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              LSF Team
+  url:               https://rm4-25.github.io/lsf_3/Meet_LSF_Team
+  # Change url to biography page when added to site. 
+  email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: cyan
