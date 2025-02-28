@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bibliography & Resources
+order: 4
 ---
 
 Cronon, William. "The Trouble with Wilderness or, getting back to the Wrong Nature." William Cronon, 1992 [https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html](https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)
