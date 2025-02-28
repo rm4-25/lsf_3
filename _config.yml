@@ -10,7 +10,7 @@ baseurl:             '/lsf_3'
 # About/contact
 author:
   name:              LSF Team
-  url:               https://rm4-25.github.io/lsf_3/Meet_LSF_Team
+  url:               
   # Change url to biography page when added to site. 
   email:             
 
