@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workflow
+title: LSF Team Workflow
 author: LSF Team
 ---
 
