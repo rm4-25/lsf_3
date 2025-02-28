@@ -20,18 +20,14 @@ Prishanti [(email)](mailto:pxp691@miami.edu) is a PhD student in the English and
 
 Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of Modern Languages and Literatures at University of Miami, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. Kathy is the founder of a small travel and language learning company, and she is currently collaborating on a book project on tourism in the Caribbean.
 
-< to add img see <img src="assets/file name here" alt="alternate text" style="width:25%; height:auto;"> >
-
 ---
 
 ## Acknowledgments
-
+LSF Project Team 
 DHIRG / Euge Stomm / Open Source Leaflet introduction
 KBJ / weekly guidance througohut project's initial phases
 Michael Soriano / Minimal Computing talk
 Alex Gil / Ed open source Jekyll theme
 Leaflet Story Map creator 
-
-Inspirations from research work mentioned in biography?
 
 Thank you.
