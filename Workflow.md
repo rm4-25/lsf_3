@@ -61,7 +61,7 @@ order: 3
         <li>Complete</li>
         <li>Complete</li>
         <li>Complete</li>
-        <li>In progress</li>
+        <li>Complete</li>
       </ul>
     </td>
   </tr>
@@ -91,9 +91,10 @@ order: 3
     <td>
       <ul>
         <li>Complete</li>
-        <li>In Progress</li>
+        <li>Complete</li>
         <li>Complete</li>
         <li>In Progress</li>
+        <li>Complete</li>
         <li>Complete</li>
       </ul>
     </td>
@@ -103,18 +104,33 @@ order: 3
     <td>
       <ul>
         <li>Group Report 2</li>
-        <li>Draft descriptive narratives and add to sound/geolocation entries in the spreadsheet</li>
-        <li>Create Leaflet map and decide on base map layer</li>
+        <li>Create new Github page with Ed minimal theme</li>
+        <li>Determine sound description criteria</li>
+        <li>Add longitude & latitude to sound entries in the spreadsheet</li>
+        <li>Review Leaflet map design options</li>
+        <li>Meet with GIS librarian re Leaflet visualization options</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Elizabeth</li>
+        <li>Raul</li>
         <li>Everyone</li>
         <li>Everyone</li>
+        <li>Prishanti</li>
+        <li>Elizabeth</li>
       </ul>
     </td>
-    <td>In Progress</td>
+    <td>
+      <ul>
+       <li>Complete</li>
+        <li>Complete</li>
+        <li>In Progress</li>
+        <li>Complete</li>
+        <li>In Progress</li>
+        <li>In Progress</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>11-Mar (Spring Break)</td>
