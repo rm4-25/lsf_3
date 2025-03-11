@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about
-order: 6
+order: 2
 ---
 
 ## Testing
