@@ -10,7 +10,9 @@ Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department 
 
 **Raul Martin IV (he/him) - GitHub Programmer & Westchester Soundcatcher**
 
-Raul [(email)](mailto:rxm1934@miami.edu) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher.
+Raul [(email)](mailto:rxm1934@miami.edu) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher. 
+
+Soundcatcher Statement: "The act of recording the intermittent chirp or crow amidst the bustling noise of regular human activity helped me realize that these two sounds are never competing, but that they are, in fact, creating a unified chorus. Now, I see listening itself as an opportunity to attune to completely new ways of being."
 
 **Prishanti Pathak (she/her) - South Miami Soundcatcher**
 
