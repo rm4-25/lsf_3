@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LSF Team
-order: 2
+order: 4
 ---
 
 **Elizabeth Cornick (she/her) - Coconut Grove Soundcatcher**
