@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workflow
-order: 3
+order: 5
 ---
 
 <table border="1">
