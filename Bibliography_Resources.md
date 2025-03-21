@@ -4,7 +4,7 @@ title: Bibliography & Resources
 order: 6
 ---
 
-Chrobak, Ula. "Noise Pollution is Invading Even the Most Protected Natural Areas." Science.org, 2017, [https://www.science.org/content/article/noise-pollution-invading-even-most-protected-natural-areas](h.ttps://www.science.org/content/article/noise-pollution-invading-even-most-protected-natural-areas). Accessed 31 March 2025.
+Chrobak, Ula. "Noise Pollution is Invading Even the Most Protected Natural Areas." Science.org, 2017, [https://www.science.org/content/article/noise-pollution-invading-even-most-protected-natural-areas](https://www.science.org/content/article/noise-pollution-invading-even-most-protected-natural-areas). Accessed 31 March 2025.
 
 Cronon, William. "The Trouble with Wilderness or, getting back to the Wrong Nature." William Cronon, 1992 [https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html](https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)
 
