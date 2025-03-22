@@ -195,7 +195,7 @@ order: 5
     </td>
     <td>
       <ul>
-        <li>Raul</li>
+        <li>Everyone</li>
         <li>Everyone</li>
         <li>Raul (lead)</li>
         <li>Prish and Elizabeth (leads)</li>
