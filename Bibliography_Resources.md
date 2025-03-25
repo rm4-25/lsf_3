@@ -24,6 +24,8 @@ NPS Night Skies and Natural Sounds Division, and Colorado State University Sound
 
 Revista Estilo / online. “NatuUrban Symphony Por Muu Blanco En Miami.” E S T I L O / Online, 20 Nov. 2024, [https://www.revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami/](https://www.revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami/) Accessed 11 Feb. 2025.
 
+Ryan, John and Lydia Hearn et. al. "The Digital Environmental Humanities (DEH) in the Anthropocene: Challenges and Opportunities in an Era of Ecological Precarity." Digitalhumanities.org, 2021, [https://www.digitalhumanities.org/dhq/vol/17/3/000714/000714.html](https://www.digitalhumanities.org/dhq/vol/17/3/000714/000714.html). Accessed 25 March 2025. 
+
 Tequesta. “Tequesta - HistoryMiami Museum.” HistoryMiami Museum, 9 Jan. 2025, [https://www.historymiami.org/online-publications/tequesta/](https://www.historymiami.org/online-publications/tequesta/) Accessed 11 Feb. 2025.
 
 The Underline. “Miami’s 10-Mile Linear Park and Urban Trail.” The Underline, [https://www.theunderline.org/](https://www.theunderline.org/).
