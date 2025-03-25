@@ -4,7 +4,7 @@ title: LSF Team
 order: 4
 ---
 
-**Elizabeth Cornick (she/her) - Coconut Grove Soundcatcher**
+**Elizabeth Cornick (she/her) - Digital Cartographer & Content Editor Coconut Grove Soundcatcher**
 
 Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
