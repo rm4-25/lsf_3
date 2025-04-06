@@ -19,6 +19,9 @@ LSF originates from the University of Miami as part of **Dr. Kelly Baker Josephâ
 ### Thanks also to:
 
 **Michael Soriano** for sharing his knowledge on [minimal computing](https://go-dh.github.io/mincomp/).
+
 **Alex Gil** for creating Jekyll[Jekyll](https://jekyllrb.com/) ["Ed"](https://minicomp.github.io/ed/) which we adopted as our site theme.
+
 **Euge Stumm** and **Elizabeth Cornick** for their introduction to [Leaflet](https://leafletjs.com/).
+
 **Dr. Larissa Montas Bravo** for her guidance with R cluster mapping.
