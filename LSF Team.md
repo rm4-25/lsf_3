@@ -10,7 +10,7 @@ order: 4
 
 Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
-!(Raul Headshot)[assets/Raul_Headshot_2024.jpeg]
+!(Raul Headshot)[https://github.com/rm4-25/lsf_3/blob/main/assets/Raul_Headshot_2024.jpeg]
 
 **Raul Martin IV (he/him) - GitHub Programmer (Westchester Soundcatcher)**
 
