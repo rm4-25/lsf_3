@@ -4,7 +4,7 @@ title: LSF Team
 order: 4
 ---
 
-!(Elizabeth Headshot)[assets/elizabeth_cornick_headshot.jpg]
+!(Elizabeth Headshot)[https://github.com/rm4-25/lsf_3/blob/main/assets/elizabeth_cornick_headshot.jpg]
 
 **Elizabeth Cornick (she/her) - Digital Cartographer & Content Editor (Coconut Grove Soundcatcher)**
 
