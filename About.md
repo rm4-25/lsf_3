@@ -1,9 +1,8 @@
 ---
 layout: page
+title: About
 order: 2
 ---
-
-## About Listening in/to South Florida (LSF)
 
 This project aims to create an interactive and immersive soundscape experience that connects listeners to South Florida’s unique blend of natural and urban environments. By curating an archive of ambient sounds — from warbling birds in metro stations to the hum of beachfront waves and urban construction — the project invites participants to reflect on the fluid boundaries between the wild and the built world.
 
