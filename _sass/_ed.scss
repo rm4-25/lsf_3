@@ -79,11 +79,12 @@ body {
   Center the page content.
 */
 
-/* Changed max-width from 50rem to 100rem. Reduced padd-left and padding-right to 0rem. @media .container changed from 50rem to 100rem.  
+/* Changed max-width to 50rem. Reduced padd-left and padding-right to 0rem. @media .container changed to 50rem.
+This change impacts every page on the site, so I'll have to figure how to make it just to the leaflet page next. 
 */
 
 .container {
-  max-width: 100rem;
+  max-width: 50rem;
   padding-left:  0rem;
   padding-right: 0rem;
   margin-left:  auto;
@@ -92,7 +93,7 @@ body {
 
 @media (min-width: 56em) {
   .container {
-    max-width: 100rem;
+    max-width: 50rem;
   }
 }
 
