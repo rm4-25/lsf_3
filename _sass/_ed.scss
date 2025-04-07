@@ -85,13 +85,13 @@ This change impacts every page on the site, so I'll have to figure how to make i
 
 .container {
   max-width: 50rem;
-  padding-left:  0rem;
-  padding-right: 0rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
 
-@media (min-width: 56em) {
+@media (min-width: 38em) {
   .container {
     max-width: 50rem;
   }
