@@ -12,9 +12,9 @@ The LSF Team are doctoral students at the University of Miami departments of Eng
 
 Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
-![Raul Martin IV Headshot](assets/Raul_Headshot_2024.jpeg){width=150 height=150}
+![Raul Martin IV Headshot](assets/Raul_Headshot_2024.jpeg){: width="50%" height="50%}
 
-![alt](image.png){: width="50%" height="50%}
+![alt](image.png)
 
 ![figure description](imageFile.png){width=250}
 
