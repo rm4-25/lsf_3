@@ -4,6 +4,10 @@ title: LSF Team
 order: 4
 ---
 
+The LSF Team are doctoral students at the University of Miami departments of English and Creative Writing and Modern Languages and Literatures.
+
+![Elizabeth Cornick Headshot](/assests/elizabeth_cornick_headshot.jpg)
+
 <img src="https://github.com/rm4-25/lsf_3/blob/main/assets/elizabeth_cornick_headshot.jpg" alt="Elizabeth" style="width:250px;height:250px;">
 
 **Elizabeth Cornick (she/her) - Digital Cartographer & Content Editor (Coconut Grove Soundcatcher)**
