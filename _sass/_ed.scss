@@ -79,11 +79,11 @@ body {
   Center the page content.
 */
 
-/* Changed max-width from 38rem to 50rem. Reduced padd-left and padding-right to 0rem. @media .container changed from 38rem to 50rem.  
+/* Changed max-width from 50rem to 100rem. Reduced padd-left and padding-right to 0rem. @media .container changed from 50rem to 100rem.  
 */
 
 .container {
-  max-width: 50rem;
+  max-width: 100rem;
   padding-left:  0rem;
   padding-right: 0rem;
   margin-left:  auto;
@@ -92,7 +92,7 @@ body {
 
 @media (min-width: 56em) {
   .container {
-    max-width: 50rem;
+    max-width: 100rem;
   }
 }
 
