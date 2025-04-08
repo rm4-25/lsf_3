@@ -4,7 +4,7 @@ title: About
 order: 2
 ---
 
-This project aims to create an interactive and immersive soundscape experience that connects listeners to South Florida’s unique blend of natural and urban environments. By curating an archive of ambient sounds — from warbling birds in metro stations to the hum of beachfront waves and urban construction — the project invites participants to reflect on the fluid boundaries between the wild and the built world.
+This project aims to create an immersive soundscape experience that connects listeners to South Florida’s unique blend of natural and urban environments. By curating an archive of ambient sounds — from warbling birds in metro stations to the hum of beachfront waves and urban construction — the project invites participants to reflect on the fluid boundaries between the wild and the built world.
 
 Through this digital experience, the project encourages both South Florida residents and non-locals to reimagine their relationship with the region’s landscapes. Listeners are invited to slow down, meditate on their surroundings, and reflect on the interplay of human and non-human forces that shape this dynamic environment. By amplifying the often-overlooked sonic details of everyday spaces, the project promotes a deeper understanding of the ecosystems, cultures, and infrastructures that define South Florida.
 
@@ -18,7 +18,7 @@ LSF originates from the University of Miami as part of **Dr. Kelly Baker Joseph�
 
 **Michael Soriano** for sharing his knowledge on [minimal computing](https://go-dh.github.io/mincomp/).
 
-**Alex Gil** for creating Jekyll[Jekyll](https://jekyllrb.com/) ["Ed"](https://minicomp.github.io/ed/) which we adopted as our site theme.
+**Alex Gil** for creating [Jekyll](https://jekyllrb.com/) ["Ed"](https://minicomp.github.io/ed/) which we adopted as our site theme.
 
 **Euge Stumm** and **Elizabeth Cornick** for their introduction to [Leaflet](https://leafletjs.com/).
 
