@@ -19,7 +19,7 @@ Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department 
 Raul [(email)](mailto:rxm1934@miami.edu) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher. 
 
 ![Prishanti Pathak Headshot](assets/Prishanti website photo.jpg) 
-<img src="https://github.com/rm4-25/lsf_3/blob/main/assets//Prishanti website photo.jpeg>
+<img src="https://github.com/rm4-25/lsf_3/blob/main/assets//Prishanti website photo.jpg?raw=true>
 
 **Prishanti Pathak (she/her) - Project Narrator (South Miami Soundcatcher)**
 
