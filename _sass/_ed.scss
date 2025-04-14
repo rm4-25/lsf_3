@@ -64,7 +64,7 @@ body {
   position: relative;
   overflow: hidden;
   width: 125%;
-  padding-top: 125%; /* 4:5 Aspect Ratio (125%) 1:1 Aspect Ratio (100%) 4:3 Aspect Ratio (75%) 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) (56.25%) */
+  padding-top: 115%; /* 4:5 Aspect Ratio (125%) 1:1 Aspect Ratio (100%) 4:3 Aspect Ratio (75%) 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) (56.25%) */
 }
 
 .responsive-iframe-container iframe {
