@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LSF Team
-order: 4
+order: 6
 ---
 
 The LSF Team are doctoral students at the University of Miami departments of English and Creative Writing and Modern Languages and Literatures.
