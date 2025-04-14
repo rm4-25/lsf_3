@@ -4,14 +4,31 @@ title: Interactive Map
 order: 3
 ---
 
-<p>
+<style type="text/css">
+html, body{
+  width:100%;
+  height:100%;
+  overflow:hidden;
+  margin:0px;   
+}
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+function autoResize(iframe) {
+    $(iframe).height($(iframe).contents().find('html').height());
+}
+</script>
+
+<iframe src="https://elizabethcornick.github.io/lsf/map.html?location=25.445869,-80.502069&marker=lsf3" width="100%" height="100%" marginheight="0" frameborder="0" border="0" scrolling="auto" onload="autoResize(this);"></iframe>
+
+<!--
   
-Click <a href="https://elizabethcornick.github.io/lsf/map.html?location=25.445869,-80.502069&marker=lsf3">here</a> to see map in full screen.
+Click <a href="">here</a> to see map in full screen.
 
 </p>
 
 
-<!-- borrowed from https://jhsgh.org/synagogue-map/. Testing compatibility with making it a "full screen" map. -->
+<!-- borrowed from https://jhsgh.org/synagogue-map/. Testing compatibility with making it a "full screen" map.
   
   <iframe width="900px" height="1300px" src="https://elizabethcornick.github.io/lsf/map.html?location=25.445869,-80.502069&marker=lsf3" ></iframe>
 
