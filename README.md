@@ -22,7 +22,7 @@ Through this digital experience, the project encourages both South Florida resid
 
 Ultimately, this initiative aims to foster environmental awareness, inspire community engagement, and offer a reflective pause amid the fast-paced digital world — creating a space where listeners can hear not only what is present, but also what may be unheard or unsilenced in the evolving South Florida landscape.
 
-## Licesning 
+## Licensing
 
 All Listening in/to South Florida media (pictures, sounds, and content) is licensed through the CC- ... license 
 
