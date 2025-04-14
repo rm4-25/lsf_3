@@ -94,7 +94,16 @@ This change impacts every page on the site, so I'll have to figure how to make i
     max-width: 38rem;
   }
 }
-
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
 /* Links */
 a, .text-title a {
   color: $link-color;
