@@ -1,9 +1,6 @@
-# Ed: A Jekyll Theme for Minimal Editions
+# Listening in/to South Florida
 
-[![Build Status](https://travis-ci.org/minicomp/ed.svg?branch=master)](https://travis-ci.org/minicomp/ed) [![Gem Version](https://badge.fury.io/rb/ed..svg)](https://badge.fury.io/rb/ed.)
-
-![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
-
+![LSF Logo](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
 
 ## Introduction
 
