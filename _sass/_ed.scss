@@ -1,4 +1,4 @@
-/* Ed: the minimal edition theme.
+e/* Ed: the minimal edition theme.
  * ___________________
  * \_   _____/\______ \
  *  |    __)_  |    |  \
@@ -59,21 +59,21 @@ body {
   margin-bottom: 4rem;
 }
 
-/* iFrame Resizer */
-.iframe-container {
-  overflow: hidden;
-  /* Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 
-  0.5625) */
-  padding-top: 56.25%;
+/* responsive-iFrame-container */
+.responsive-iframe-container {
   position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
-.iframe-container iframe {
-  border: 0;
-  height: 100%;
-  left: 0;
+
+.responsive-iframe-container iframe {
   position: absolute;
   top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
+}
 }
 /*
   Wrapper
