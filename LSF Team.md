@@ -18,7 +18,7 @@ Elizabeth [(email)](mailto:emc988@miami.edu) is a PhD student in the Department 
 
 Raul [(email)](mailto:rxm1934@miami.edu) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher. 
 
-<img src="https://github.com/rm4-25/lsf_3/blob/main/assets/Prish%20headshot_resized%20(2).jpg" width="300" height="250">
+![Prishanti Headshot](assets/Prish headshot_resized (2).jpg) 
 
 **Prishanti Pathak (she/her) - (South Miami Soundcatcher)**
 
@@ -35,3 +35,6 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
 "The act of recording the intermittent chirp or crow amidst the bustling noise of regular human activity helped me realize that these two sounds are never competing, but that they are, in fact, creating a unified chorus. Now, I see listening itself as an opportunity to attune to completely new ways of being." - Raul 
 
 ---
+
+<!-- <img src="https://github.com/rm4-25/lsf_3/blob/main/assets/Prish%20headshot_resized%20(2).jpg" width="300" height="250">
+assets/Prish headshot_resized (2).jpg -->
