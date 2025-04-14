@@ -93,7 +93,14 @@ This change impacts every page on the site, so I'll have to figure how to make i
   .container {
     max-width: 38rem;
   }
+  
+  .container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
 }
+  
 .responsive-iframe {
   position: absolute;
   top: 0;
