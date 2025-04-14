@@ -1,64 +1,25 @@
 # Listening in/to South Florida
 
-![LSF Logo](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
+![LSF Logo](assets/LSF_Logo.jpg)
 
-## Introduction
+## Live Links
 
-Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on
-[minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility,
-durability, ease and flexibility.
+Site: https://rm4-25.github.io/lsf_3/
+Submit Sound: https://rm4-25.github.io/lsf_3/Submit%20Sound/
+LSF Team: https://rm4-25.github.io/lsf_3/LSF%20Team/
+Data Reference Sheet (interactive map): https://docs.google.com/spreadsheets/d/1iRgb5LshDi4ApRCmCqpEZ2522XGPIGbaQgDXQxtLp1I/edit?usp=sharing
+Data Reference Sheet (story map): https://docs.google.com/spreadsheets/d/1FKbyvrXn7gXpkGwB_lBMwZP2oQ7Bu5Kum5MF80HFeyw/edit?gid=0#gid=0 
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
+## About the Project
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
-front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
-theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
-and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
-useful type of editions for editors and readers. An edition produced with Ed consists of static
-pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
-these static pages require less bandwidth. Our hope is that our approach can help beginners and
-veterans deploy beautiful editions with less effort, and that it can help us teach a 'full stack'
-[in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/README.md),
-while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
-high-quality editions on github.io in large quantities based on the
-[git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle!
+This project aims to create an immersive soundscape experience that connects listeners to South Florida’s unique blend of natural and urban environments. By curating an archive of ambient sounds — from warbling birds in metro stations to the hum of beachfront waves and urban construction — the project invites participants to reflect on the fluid boundaries between the wild and the built world.
 
+Through this digital experience, the project encourages both South Florida residents and non-locals to reimagine their relationship with the region’s landscapes. Listeners are invited to slow down, meditate on their surroundings, and reflect on the interplay of human and non-human forces that shape this dynamic environment. By amplifying the often-overlooked sonic details of everyday spaces, the project promotes a deeper understanding of the ecosystems, cultures, and infrastructures that define South Florida.
 
-## Sample Ed editions.
+Ultimately, this initiative aims to foster environmental awareness, inspire community engagement, and offer a reflective pause amid the fast-paced digital world — creating a space where listeners can hear not only what is present, but also what may be unheard or unsilenced in the evolving South Florida landscape.
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
+## Licesning 
 
-
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+All Listening in/to South Florida media (pictures, sounds, and content) is licensed through the CC- ... license 
+The "Ed" Jekyll theme is licensed through the MIT License. 
+Leaflet is an open source browser software plug-in licensed through ... 
