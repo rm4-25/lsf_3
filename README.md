@@ -5,9 +5,13 @@
 ## Live Links
 
 Site: https://rm4-25.github.io/lsf_3/
+
 Submit Sound: https://rm4-25.github.io/lsf_3/Submit%20Sound/
+
 LSF Team: https://rm4-25.github.io/lsf_3/LSF%20Team/
+
 Data Reference Sheet (interactive map): https://docs.google.com/spreadsheets/d/1iRgb5LshDi4ApRCmCqpEZ2522XGPIGbaQgDXQxtLp1I/edit?usp=sharing
+
 Data Reference Sheet (story map): https://docs.google.com/spreadsheets/d/1FKbyvrXn7gXpkGwB_lBMwZP2oQ7Bu5Kum5MF80HFeyw/edit?gid=0#gid=0 
 
 ## About the Project
@@ -21,5 +25,7 @@ Ultimately, this initiative aims to foster environmental awareness, inspire comm
 ## Licesning 
 
 All Listening in/to South Florida media (pictures, sounds, and content) is licensed through the CC- ... license 
+
 The "Ed" Jekyll theme is licensed through the MIT License. 
+
 Leaflet is an open source browser software plug-in licensed through ... 
