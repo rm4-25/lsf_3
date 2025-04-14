@@ -1,6 +1,6 @@
 # Listening in/to South Florida
 
-![LSF Logo](assets/LSF_Logo.jpg =100x100)
+<img src="assets/LSF_Logo.jpg" alt="LSF Logo" width="200"/>
 
 ## Live Links
 
