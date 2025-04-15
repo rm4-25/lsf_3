@@ -14,7 +14,17 @@ $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $heading-font: sans-serif;
 $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
-
+/* Iframe */
+  body{
+        margin: 0; /* Remove default margin */
+    }
+    iframe{
+        display: block;  /* iframes are inline by default */
+        height: 100vh;  /* Set height to 100% of the viewport height */
+        width: 100vw;  /* Set width to 100% of the viewport width */
+        border: none; /* Remove default border */
+        background: lightyellow; /* Just for styling */
+    }
 /*
   Color
 
