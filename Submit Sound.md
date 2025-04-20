@@ -13,7 +13,7 @@ What you will need to fill form:
 
 2. One sentence description of sound.
 
-2. MP3 sound clip. Convert <a href="https://www.freeconvert.com/">here</a>
+2. MP3 sound clip. Convert <a href="https://www.freeconvert.com/">here</a>.
 
 3. Longitude and Latitude Coordinates where you captured sound. 
 
