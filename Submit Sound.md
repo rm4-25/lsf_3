@@ -19,7 +19,8 @@ What you will need to fill form:
 
 5. Longitude and Latitude Coordinates where you captured sound.
 
-*Need to convert a file?* Click <a href="https://www.freeconvert.com/">here</a>.
+*Need to convert a file? Click <a href="https://www.freeconvert.com/">here</a>.*
+
 
 Contact the LSF team via <a href="mailto:lsf0002025@gmail.com">email</a> if you have any questions. 
 
