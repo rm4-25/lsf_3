@@ -4,7 +4,7 @@ title: Submit Sound
 order: 5
 ---
 
-South Floridians and visitors may <a href="https://docs.google.com/forms/d/e/1FAIpQLSc1vuzaKE9fR2_XuRiq-5JJXQppUkt8Iyu5kpRn6oCFcHeEjA/viewform?usp=header">fill this google form</a> to contribute their animal, urban, and/or elemental sound. 
+Calling all South Florida soundcatchers! We invite you to <a href="https://docs.google.com/forms/d/e/1FAIpQLSc1vuzaKE9fR2_XuRiq-5JJXQppUkt8Iyu5kpRn6oCFcHeEjA/viewform?usp=header">fill this google form</a> to contribute your animal, urban, and/or elemental sound(s). 
 The LSF Team will review contributed sound clips each month. Please fill the complete form as we require each data point to upload your contribution. Also, know that sharing these data with us will serve as your acknowledgment that these data may be publicized. 
 
 What you will need to fill form:
