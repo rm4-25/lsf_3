@@ -13,11 +13,11 @@ What you will need to fill form:
 
 2. One sentence description of sound.
 
-2. MP3 sound clip. 
+3. MP3 sound clip. 
 
-3. Image (JPEG/PNG/GIF).
+4. Image (JPEG/PNG/GIF).
 
-4. Longitude and Latitude Coordinates where you captured sound.
+5. Longitude and Latitude Coordinates where you captured sound.
 
 *Need to convert a file?* Click <a href="https://www.freeconvert.com/">here</a>.
 
