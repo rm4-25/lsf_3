@@ -4,7 +4,7 @@ title: LSF Team
 order: 6
 ---
 
-<img src="https://your-image-url.type" height="370">
+<img src="https://github.com/rm4-25/lsf_3/blob/main/assets/LSF_Group%20Photo.jpg" height="370">
 
 The LSF Team are doctoral students at the University of Miami departments of English and Creative Writing and Modern Languages and Literatures.
 
