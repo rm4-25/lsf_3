@@ -24,8 +24,8 @@ Ultimately, this initiative aims to foster environmental awareness, inspire comm
 
 ## Licensing
 
-All Listening in/to South Florida media (pictures, sounds, and content) is licensed through the CC- ... license 
+All Listening in/to South Florida media (pictures, sounds, and content) is licensed through <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a>
 
-The "Ed" Jekyll theme is licensed through the MIT License. 
+The "Ed" Jekyll theme is under an <a href="https://www.mit.edu/~amini/LICENSE.md">MIT license</a>. 
 
-Leaflet is an open source browser software plug-in licensed through ... 
+Leaflet is an open source browser software plug-in licensed under BSD-2 Clause License.  
