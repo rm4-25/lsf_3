@@ -12,15 +12,11 @@ LSF Team: https://rm4-25.github.io/lsf_3/LSF%20Team/
 
 Leaflet Site: https://rm4-25.github.io/lsf_storymap/
 
-Leaflet Data: https://docs.google.com/spreadsheets/d/1FKbyvrXn7gXpkGwB_lBMwZP2oQ7Bu5Kum5MF80HFeyw/edit?gid=0#gid=0 
+Data Reference Sheet (Leaflet): https://docs.google.com/spreadsheets/d/1FKbyvrXn7gXpkGwB_lBMwZP2oQ7Bu5Kum5MF80HFeyw/edit?gid=0#gid=0 
 
 Collection Builder Site: https://elizabethcornick.github.io/lsf/
 
-Collection Builder Data: https://docs.google.com/spreadsheets/d/1iRgb5LshDi4ApRCmCqpEZ2522XGPIGbaQgDXQxtLp1I/edit?gid=1447384171#gid=1447384171%3C/a 
-
-Data Reference Sheet (interactive map): https://docs.google.com/spreadsheets/d/1iRgb5LshDi4ApRCmCqpEZ2522XGPIGbaQgDXQxtLp1I/edit?usp=sharing
-
-Data Reference Sheet (story map): https://docs.google.com/spreadsheets/d/1FKbyvrXn7gXpkGwB_lBMwZP2oQ7Bu5Kum5MF80HFeyw/edit?gid=0#gid=0 
+Data Reference Sheet (Collection Builder): https://docs.google.com/spreadsheets/d/1iRgb5LshDi4ApRCmCqpEZ2522XGPIGbaQgDXQxtLp1I/edit?usp=sharing
 
 ## About the Project
 
