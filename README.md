@@ -28,4 +28,4 @@ All Listening in/to South Florida media (pictures, sounds, and content) is licen
 
 The "Ed" Jekyll theme is under an <a href="https://www.mit.edu/~amini/LICENSE.md">MIT license</a>. 
 
-Leaflet is an open source browser software plug-in licensed under BSD-2 Clause License.  
+Leaflet is an open source browser software plug-in licensed under [BSD-2 Clause License](assets/BSD 2-Clause License.md).  
