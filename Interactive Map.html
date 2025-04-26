@@ -3,14 +3,22 @@ layout: page
 title: Interactive Map
 order: 3
 ---
+<div id="parent">
 <button class="sidebar-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="sidebar">
       </button>
+</div>
 
 <div class="box">
     <iframe class="iframe-element" src="https://elizabethcornick.github.io/lsf/map.html?location=25.445869,-80.502069&marker=lsf3"></iframe>
 </div>
 
 <style>
+      
+    #parent{
+            position: static;
+            width:100%;
+    }
+      
     .box {
             position: static;
             width: 100%;
