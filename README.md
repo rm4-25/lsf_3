@@ -24,7 +24,7 @@ This project aims to create an immersive soundscape experience that connects lis
 
 Through this digital experience, the project encourages both South Florida residents and non-locals to reimagine their relationship with the region’s landscapes. Listeners are invited to slow down, meditate on their surroundings, and reflect on the interplay of human and non-human forces that shape this dynamic environment. By amplifying the often-overlooked sonic details of everyday spaces, the project promotes a deeper understanding of the ecosystems, cultures, and infrastructures that define South Florida.
 
-Ultimately, this initiative aims to foster environmental awareness, inspire community engagement, and offer a reflective pause amid the fast-paced digital world — creating a space where listeners can hear not only what is present, but also what may be unheard or unsilenced in the evolving South Florida landscape.
+Ultimately, this initiative aims to foster environmental awareness, inspire community engagement, and offer a reflective pause amid the fast-paced digital world — creating a space where listeners can hear not only what is present, but also what may be unheard or silenced in the evolving South Florida landscape.
 
 ## Licensing
 
